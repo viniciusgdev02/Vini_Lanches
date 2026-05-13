@@ -52,7 +52,7 @@ Certifique-se de ter o SDK do .NET 6.0 (ou superior) instalado.
 Clone o repositório:
 
 Bash
-git clone https://github.com/seu-usuario/ViniLanches.git
+git clone https://github.com/seu-usuario/Vini_Lanches.git
 Navegue até a pasta do projeto:
 
 Bash
